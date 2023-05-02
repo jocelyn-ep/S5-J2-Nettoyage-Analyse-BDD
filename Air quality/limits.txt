@@ -1,0 +1,16 @@
+Chef, voici mes premières analyses:
+
+1-Valeurs aberrantes. 
+
+Je vous ai sorti un fichier outliers.csv qui donne toutes les valeurs < Q1 et > Q3 pour chaque polluant
+
+Afin de mieux trier les données, j'aurais besoin pour chaque polluant, de valeurs limites au delà desquelles on estime qu'elles sont aberrantes.
+
+
+2-Nombre de pays
+
+Je vous ai sorti un fichier countries.csv qui donne le nombre de mesures faites par pays
+
+Certains pays ont très peu de mesures.
+
+Combien de points de mesures faut-il pour faire une moyenne statistique sur ce pays?
