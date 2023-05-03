@@ -7,5 +7,5 @@ Troisième projet validant d'analyse de données dans le cadre de la formation T
 
 ## Outils de travail
 
-- Language Python
+- Language Python avec librairie Pandas
 - Notebook Jupyter
